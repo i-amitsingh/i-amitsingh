@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amit Singh</h1>
+<h1 align="center" color = "white" >Hi 👋, I'm Amit Singh</h1>
 <h3 align="center">A passionate Frontend Developer and UI/UX Designer</h3>
 
 
