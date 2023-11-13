@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
-<h3 align="center">A passionate Frontend developer and UI/UX Designer</h3>
+<h3 align="center">A passionate Frontend Developer and UI/UX Designer</h3>
 
 
 <!-- <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" height="300px" align="right" /> -->
@@ -30,6 +30,6 @@
 <!-- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=659b60"> -->
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=4584b6">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cpp&svgfill=4584b6"> 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=4584b6"> 
 <!-- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgfill=2d79c7"> -->
 </p>  
