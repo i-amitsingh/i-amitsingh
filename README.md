@@ -30,5 +30,6 @@
 <!-- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=659b60"> -->
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=4584b6">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cpp&svgfill=4584b6"> 
 <!-- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgfill=2d79c7"> -->
 </p>  
