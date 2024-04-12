@@ -8,7 +8,6 @@
 - 📫 How to reach me 
     - <a href="https://www.linkedin.com/in/ermtz/" target="_blank"> **Linkedin** </a>
     - <a href="mailto:amitmansingh2003@gmail.com" target="_blank"> **Email** </a>
-    - <a href="https://www.instagram.com/iamitsingh_007" target="_blank"> **Instagram** </a>
     - <a href="https://twitter.com/ermtz_7" target="_blank"> **Twitter** </a>
 
 
